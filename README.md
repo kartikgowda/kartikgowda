@@ -9,12 +9,6 @@
 
 ### Connect with me
 
-<a href="https://github.com/kartikgowda">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kartikgowda?style=social&label=@kartikgowda">
-</a>
-<a href="https://twitter.com/kartikgowda_/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/kartikgowda_?style=social&label=@kartikgowda_">
-</a>
 <a href="https://linkedin.com/in/kartikgowda">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kartikgowda&color=0A66C2&style=flat&logo=linkedin" />
 </a>
