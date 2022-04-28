@@ -1,24 +1,29 @@
-# Hello there, I'm Kartik 👋 
+# Hello there, I'm Kartik 👋
 
+## I'm a Recent Graduate 🎓 and Full Stack Developer 👨‍💻
 
-## I'm a Recent Graduate 🎓 and Full Stack Developer 👨‍💻 !!!
-
--  I’m looking to collaborate with other content creators
+- I’m looking to collaborate with other content creators
 - 🛟 I’m currently learning REACT & REACT NATIVE.
 - ⛳ Goal (2022): Creating an application for Tenants.
 - 🃏 Hobbies: Home-Chef, Reading Books, Playing Video Games, Learning new Languages(French[atm]) & Working Out.
 
+### Connect with me
 
-### Connect with me:
-
-[![website](./img/website.svg)](https://www.kartikgowda.com)
-&nbsp;&nbsp;
-
-[![website](./img/twitter.svg)](https://twitter.com/kartikgowda_)
-&nbsp;&nbsp;
-
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/kartikgowda/)
-&nbsp;&nbsp;
+<a href="https://github.com/kartikgowda">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/kartikgowda?style=social&label=@kartikgowda">
+</a>
+<a href="https://twitter.com/kartikgowda_/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/kartikgowda_?style=social&label=@kartikgowda_">
+</a>
+<a href="https://linkedin.com/in/kartikgowda">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/kartikgowda&color=0A66C2&style=flat&logo=linkedin" />
+</a>
+<a href="https://www.instagram.com/kartik_gowda/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@kartik_gowda&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+</a>
+<a href="mailto:kartikrgowda@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=kartikrgowda@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+</a>
 
 ### Languages and Tools
 
