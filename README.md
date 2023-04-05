@@ -2,7 +2,6 @@
 
 ## I'm a Recent Graduate 🎓 and Full Stack Developer 👨‍💻
 
-- I’m looking to collaborate with other content creators
 - 🛟 I’m currently learning REACT & REACT NATIVE.
 - ⛳ Goal (2023): Creating an application for Tenants.
 - 🃏 Hobbies: Home-Chef, Reading Books, Playing Video Games, Learning new Languages(French[atm]) & Working Out.
